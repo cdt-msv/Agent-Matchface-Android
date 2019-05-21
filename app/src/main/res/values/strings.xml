@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaceMatcher</string>
+    <string name="titleText">Face\nMatcher</string>
+    <string name="matchingTitle">Matching\nscore</string>
+</resources>

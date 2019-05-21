@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- DownTown -->
+    <color name="darkBlue">#373854</color>
+    <color name="darkPurple">#493267</color>
+    <color name="purple">#9e379f</color>
+    <color name="pink">#e86af0</color>
+    <color name="pastelBlue">#7bb3ff</color>
+
+    <!-- shades of darkPurple -->
+    <color name="firstShadesOfDarkPurple">#5B4676</color>
+    <color name="secondShadesOfDarkPurple">#6d5a85</color>
+
+</resources>
